@@ -1,6 +1,9 @@
 # CompCustVis
-Azure Computer Vision API and Custom Vision API workshop
+Azure Computer Vision API and Custom Vision API workshop presented at Bertelsmann's Advanced Analytics Week in Bielefeld (9.10.2019).
 
+<br/>
+<br/>
+<br/>
 
 LINKS TO NBViewer:
 
@@ -8,7 +11,9 @@ https://nbviewer.jupyter.org/github/martdo/CompCustVis/blob/master/MS_Computer_V
 
 https://nbviewer.jupyter.org/github/martdo/CompCustVis/blob/master/MS_Custom_Vision.ipynb
 
-
+<br/>
+<br/>
+<br/>
 
 Preview:
 
