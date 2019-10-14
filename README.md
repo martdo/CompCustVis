@@ -6,5 +6,11 @@ LINKS TO NBViewer:
 
 https://nbviewer.jupyter.org/github/martdo/CompCustVis/blob/master/MS_Computer_Vision.ipynb
 
+https://nbviewer.jupyter.org/github/martdo/CompCustVis/blob/master/MS_Custom_Vision.ipynb
+
+
+
+Preview:
+
 
 ![alt text](https://github.com/martdo/CompCustVis/blob/master/Screenshot.png)
