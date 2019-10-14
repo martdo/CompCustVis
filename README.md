@@ -3,7 +3,6 @@ Azure Computer Vision API and Custom Vision API workshop presented at Bertelsman
 
 <br/>
 <br/>
-<br/>
 
 LINKS TO NBViewer:
 
@@ -11,7 +10,6 @@ https://nbviewer.jupyter.org/github/martdo/CompCustVis/blob/master/MS_Computer_V
 
 https://nbviewer.jupyter.org/github/martdo/CompCustVis/blob/master/MS_Custom_Vision.ipynb
 
-<br/>
 <br/>
 <br/>
 
