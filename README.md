@@ -13,7 +13,6 @@ https://nbviewer.jupyter.org/github/martdo/CompCustVis/blob/master/MS_Custom_Vis
 <br/>
 <br/>
 
-Preview:
 
 
 ![alt text](https://github.com/martdo/CompCustVis/blob/master/Screenshot.png)
